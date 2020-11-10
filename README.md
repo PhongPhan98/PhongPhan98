@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### 🔭 I’m currently working on Mobile World as a trainee
+### 📫 How to reach me: https://phanxuanphong37.wixsite.com/phongpx9x
 <!--
 **PhongPhan98/PhongPhan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
